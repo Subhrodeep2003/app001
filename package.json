@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Subhrodeep2003/REACT_JBS/issues"
   },
-  "homepage": "https://github.com/Subhrodeep2003/REACT_JBS#readme"
+  "homepage": "https://github.com/Subhrodeep2003/REACT_JBS#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
